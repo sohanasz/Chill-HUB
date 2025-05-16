@@ -77,6 +77,7 @@ The following are currently under development or planned:
 ```bash
 git clone https://github.com/sohanasz/Chill-HUB.git
 cd Chill-HUB
+```
 
 ## Project Setup Instructions
 
