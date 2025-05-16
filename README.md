@@ -20,4 +20,4 @@ npm start
 
 Make sure to create a `.env` file in the **root directory** of the project.  
 Add all required environment variables and secrets needed for the application to function correctly.
-Refer **env-sample.txt** for the required environment variables for getting the project up and running!
+Refer `env-sample.txt` for the required environment variables for getting the project up and running!
